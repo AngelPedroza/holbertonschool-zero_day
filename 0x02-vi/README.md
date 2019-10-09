@@ -1,1 +1,1 @@
-This repo is for show the tasks of vi
+# This repo is for know how to use vi
