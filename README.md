@@ -1,2 +1,2 @@
 # holberonschool-zero_day
-This is my first repro for holbertonSchool
+This is my first repo for holbertonSchool
