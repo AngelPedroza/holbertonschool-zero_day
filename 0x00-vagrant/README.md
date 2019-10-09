@@ -1,2 +1,1 @@
-#Read_me
-This is a repo for contain the pryects for vagrant.
+# This is a repo for contain the proyects for how to use vagrant.
